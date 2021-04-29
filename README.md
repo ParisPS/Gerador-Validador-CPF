@@ -1,4 +1,4 @@
-# Gerador-Validar-CPF-
+# Gerador e Validador de CPF
 Um gerador e também um Validador de CPF, usando a linguagem Python.
 
 ## Tecnologias usadas:
